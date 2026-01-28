@@ -30,7 +30,7 @@ Kurulum:
 Bilinen Sorunlar:
 - Oyunda kullanılan fontların Türkçe karakter desteği sınırlıdır kelimelerde bozulmalar bulunabilir.
 - Gözden kaçan sorunlar bulunabilir.
-- Oyunda kullanılan bazı özel fontlar Türkçe karakterleri desteklemediği bazı türkçe karakterlerde bozulmalar görülebilir
+- Oyunda kullanılan bazı özel fontlar Türkçe karakterleri desteklemediğinden kaynaklı bazı türkçe karakterlerde bozulmalar görülebilir
 
 ---
 
