@@ -35,8 +35,8 @@ Bilinen Sorunlar:
 ---
 
 Test Durumu:
--Yama sınırlı bir şekilde test edilmiştir.
--Geri bildirimlere göre güncellemeler yapılacaktır.
+- Yama sınırlı bir şekilde test edilmiştir.
+- Geri bildirimlere göre güncellemeler yapılacaktır.
 
 ---
 
