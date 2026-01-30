@@ -16,9 +16,9 @@ Yama Bilgisi
 Kurulum
 
 - Oyunun kurulu olduğu yerel (local) dosyalara girin.
-- Orijinal .csv dosyalarını yedeklemeniz önerilir.
-- Yama ile gelen .csv dosyalarını oyun klasörüne kopyalayın.
-- Mevcut dosyalarla değiştirmeyi onaylayın.
+- Orijinal .csv dosyasını yedeklemeniz önerilir.
+- Yama ile gelen .csv dosyasını oyun klasörüne kopyalayın.
+- Mevcut dosyayla değiştirmeyi onaylayın.
 - Oyunu başlatın.
 - Oyun ayarlarından dili Deutsch / Almanca olarak seçin.
 - Türkçe çeviri Almanca dilinin üzerine yazılmıştır.
@@ -42,4 +42,4 @@ Test Durumu:
 
 Yamanın Kaldırılması:
 
-- Yamayı kaldırmak için yedeklediğiniz orijinal .csv dosyalarını oyun klasörüne geri koymanız ve mevcut dosyalarla değiştirmeniz yeterlidir.
+- Yamayı kaldırmak için yedeklediğiniz orijinal .csv dosyasını oyun klasörüne geri koymanız ve mevcut dosyalarla değiştirmeniz yeterlidir.
