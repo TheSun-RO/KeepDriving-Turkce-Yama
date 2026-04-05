@@ -43,3 +43,7 @@ Test Durumu:
 Yamanın Kaldırılması:
 
 - Yamayı kaldırmak için yedeklediğiniz orijinal .csv dosyasını oyun klasörüne geri koymanız ve mevcut dosyalarla değiştirmeniz yeterlidir.
+
+---
+
+İletişim: batuhanediz@tutamail.com
